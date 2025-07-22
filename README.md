@@ -1,64 +1,8 @@
 # PineTech
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> "PineTech" </title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0; 
-            padding: 0;
-            background: #f8f9fa;
-            color: #222;
-        }
-        header {
-            background: #28527a;
-            color: #fff;
-            padding: 1.5rem 2rem;
-            text-align: center;
-        }
-        main {
-            max-width: 600px;
-            margin: 2rem auto;
-            background: #fff;
-            box-shadow: 0 2px 10px rgba(40,82,122,0.05);
-            border-radius: 10px;
-            padding: 2rem;
-        }
-        h1, h2 {
-            margin-top: 0;
-        }
-        .contact {
-            margin-top: 2rem;
-        }
-        .contact-list {
-            list-style: none;
-            padding: 0;
-        }
-        .contact-list li {
-            margin-bottom: 0.5rem;
-        }
-        a {
-            color: #28527a;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        footer {
-            text-align: center;
-            padding: 1rem;
-            color: #888;
-            font-size: 0.95em;
-        }
-    </style>
 </head>
 <body>
     <header>
-        <h1>PineTech</h1>
         <p>Empowering Your Business for a Brighter Future</p>
     </header>
     <main>
